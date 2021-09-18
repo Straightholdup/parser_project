@@ -1,0 +1,2 @@
+def printdb():
+    print("db")
